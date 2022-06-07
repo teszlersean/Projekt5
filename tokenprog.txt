@@ -1,0 +1,3 @@
+Token felismerő/beváltó program:
+A mesterséges intelligencia megnézi hogy egy képen hány darab token található, és ennek megfelelően kiírja a konzolba a tokenek értékét forintban.
+Különböző tokenek, különböző értékekkel rendelkeznek.
